@@ -1,0 +1,22 @@
+{
+  "name": "backauthapp",
+  "version": "1.0.0",
+  "description": "Backend Authentication with json web token",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies":{
+    "express":"*",
+    "mongoose":"*",
+    "bcryptjs":"*",
+    "cors":"*",
+    "jsonwebtoken":"*",
+    "body-parser":"*",
+    "passport":"*",
+    "passport-jwt":"*"
+  },
+  "author": "Rahoof Khan",
+  "license": "ISC"
+}
