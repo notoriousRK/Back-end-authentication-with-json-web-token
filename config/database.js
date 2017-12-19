@@ -1,4 +1,4 @@
 module.exports = {
-  database: 'mongodb://localhost:27017/meanauth',
+  database: 'mongodb://rahoof:rahoof123@ds161446.mlab.com:61446/eventmanagerapp',
   secret: 'yoursecret'
 }
