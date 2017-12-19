@@ -1,6 +1,6 @@
 
 
-#Backend authentication with json web token
+#Project Event Manager
 
 
 #Usage
